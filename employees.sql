@@ -71,4 +71,7 @@ CREATE TABLE salaries (
     PRIMARY KEY (emp_no, from_date)
 );
 
- 
+-- Insert sample data
+SELECT 'INSERTING SAMPLE DATA' as 'INFO';
+
+
